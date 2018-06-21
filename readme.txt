@@ -1,0 +1,1 @@
+USBからkinect_v1_pkg→bin&cfgをscripts内に入れてね〜
